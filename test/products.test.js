@@ -1,4 +1,5 @@
 /* eslint-disable no-undef */
+/* eslint linebreak-style: ["error", "windows"] */
 import request from 'supertest';
 
 import app from '../src/app';
